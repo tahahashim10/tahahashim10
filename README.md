@@ -6,7 +6,7 @@ Computer Science @ University of Toronto
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [taha.hashim@mail.utoronto.ca](mailto:taha.hashim@mail.utoronto.ca)
-* 🧠  I'm learning Python and Java for software development, emphasizing web frameworks, version control, and IDEs
+* 🧠  I am currently learning data structures and algorithms in Python, as well as Software Tools and Systems Programming in C and Bash.
 * ⚡  Previously working as a Software Engineer Intern at Akhny Solutions
 
 ### Skills
