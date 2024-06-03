@@ -6,7 +6,7 @@ Computer Science @ University of Toronto
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [taha.hashim@mail.utoronto.ca](mailto:taha.hashim@mail.utoronto.ca)
-* 🧠  Currently working as a Software Systems Engineer Intern at Ericsson
+* 🧠  Currently working as a Software Services Engineer Intern at Ericsson
 * ⚡  Previously worked as a Software Engineer Intern at Akhny Solutions
 
 ### Skills
