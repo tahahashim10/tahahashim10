@@ -7,7 +7,7 @@ Computer Science @ University of Toronto
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [taha.hashim@mail.utoronto.ca](mailto:taha.hashim@mail.utoronto.ca)
 * 🧠  Currently Working as a Software Development Engineer Intern at AWS
-* ⚡  Previously worked as a Software Automation Engineer Intern at Ericsson
+* ⚡  Previously worked as an Integration Engineer Intern at Ericsson
 
 ### Skills
 
